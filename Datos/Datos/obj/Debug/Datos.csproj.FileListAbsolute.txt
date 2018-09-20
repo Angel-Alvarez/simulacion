@@ -1,0 +1,5 @@
+C:\Users\Angel\Documents\Itsur\repoSimulacion\simulacion\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\Angel\Documents\Itsur\repoSimulacion\simulacion\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\Angel\Documents\Itsur\repoSimulacion\simulacion\Datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Itsur\repoSimulacion\simulacion\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\Angel\Documents\Itsur\repoSimulacion\simulacion\Datos\Datos\obj\Debug\Datos.pdb
